@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy DiFu-ZEV
 
-- 🔭 Actualmente trabajo en desarrollo web
+- 🔭 Actualmente Trabajo Independientes en Desarrollo Juegos Personal+Roblox y Webs
 - 🎮 También creo scripts y juegos en Roblox
 - 💬 Pregúntame sobre HTML, CSS, JavaScript y PHP
 - 🌐 Mi web: [difu-zev.netlify.app](https://difu-zev.netlify.app)
