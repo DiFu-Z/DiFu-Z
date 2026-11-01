@@ -29,6 +29,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
 ![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
+![Dreamweaver](https://img.shields.io/badge/dreamweaver-%23470137.svg?style=for-the-badge&logo=adobedreamweaver&logoColor=%2346FE00)
+![VS Code](https://img.shields.io/badge/vs%20code-%230078D7.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 
 ### Herramientas de Diseño + Dibujo
 ![PhotoCraft](https://img.shields.io/badge/photocraft-%238A2BE2.svg?style=for-the-badge&logoColor=white)
