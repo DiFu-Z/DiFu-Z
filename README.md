@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy DiFu-ZEV - Diego
+### ¡Hola! 👋 Soy DiFu-ZEV - <sub><sup>Diego</sup></sub>
 
 - 🔭 Actualmente Trabajo Independientes en Desarrollo Juegos Personal+Roblox y Webs
 - 🎮 También creo scripts y juegos en Roblox
