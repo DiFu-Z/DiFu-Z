@@ -26,6 +26,7 @@
 
 ### Desarrollo de juegos
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
+![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 
 ### DevOps, hosting y herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
