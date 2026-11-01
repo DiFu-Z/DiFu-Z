@@ -10,12 +10,12 @@
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" height="20" align="absmiddle" alt="España"> ESPAÑA <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" height="20" align="absmiddle" alt="España">
 # 
-- Redes Sociales
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/difu_xx)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/difu-artdev.bsky.social)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/difu_cd)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://difu-zev.itch.io/)
-[![CodePen](https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DiFu)
+### Redes Sociales
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/difu_xx) &nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/difu-artdev.bsky.social) &nbsp;
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/difu_cd) &nbsp;
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://difu-zev.itch.io/) &nbsp;
+[![CodePen](https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DiFu) &nbsp;
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DiFu_rx)
 ##
 ## Tech Stack
