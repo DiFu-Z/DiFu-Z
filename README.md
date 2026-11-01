@@ -12,11 +12,11 @@
 
 ### Desarrollo de juegos  +  Desarrollo Web
 ![Dreamweaver](https://img.shields.io/badge/dreamweaver-%23470137.svg?style=for-the-badge&logo=adobedreamweaver&logoColor=%2346FE00)
+![VS Code](https://img.shields.io/badge/vs%20code-%230078D7.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
 ![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
-![VS Code](https://img.shields.io/badge/vs%20code-%230078D7.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 
 ### Herramientas de Video
 ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
