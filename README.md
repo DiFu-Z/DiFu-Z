@@ -10,13 +10,6 @@
 
 ## Tech Stack
 
-### Herramientas de Video
-![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![FilmCraft](https://img.shields.io/badge/filmcraft-%23E4572E.svg?style=for-the-badge&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/final%20cut%20pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![CapCut](https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
-![iMovie](https://img.shields.io/badge/imovie-%236E3BD9.svg?style=for-the-badge&logo=apple&logoColor=white)
-
 ### Desarrollo de juegos  +  Desarrollo Web
 ![Dreamweaver](https://img.shields.io/badge/dreamweaver-%23470137.svg?style=for-the-badge&logo=adobedreamweaver&logoColor=%2346FE00)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +17,13 @@
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
 ![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vs%20code-%230078D7.svg?style=for-the-badge&logo=vscodium&logoColor=white)
+
+### Herramientas de Video
+![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![FilmCraft](https://img.shields.io/badge/filmcraft-%23E4572E.svg?style=for-the-badge&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/final%20cut%20pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![CapCut](https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
+![iMovie](https://img.shields.io/badge/imovie-%236E3BD9.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
