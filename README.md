@@ -41,4 +41,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
+## Redes Sociales
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DiFu_rx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/difu_xx)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/difu-artdev.bsky.social)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/difu_cd)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://difu-zev.itch.io/)
+[![CodePen](https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DiFu)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://es.pinterest.com/Sr_DiFu/)
+[![Web](https://img.shields.io/badge/Mi%20Web-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://difu-zev.netlify.app)
+
 
