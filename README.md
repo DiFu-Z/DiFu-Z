@@ -1,7 +1,6 @@
 # ¡BUENAS!
 ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
-## 👋Soy DiFu-ZEV - Creador Contenigo
-<sub><sup>Mi nombre real: Diego</sup></sub>
+## 👋Soy DiFu-ZEV - Creador Contenigo <sub><sup>Mi nombre real: Diego</sup></sub>
 
 - 🔭 Actualmente Trabajo Independientes en Desarrollo Juegos para: Roblox+Itch.io y Webs
 - 📫 Cómo Contactarme: yosoydifu@yahoo.com
