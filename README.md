@@ -16,17 +16,16 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Desarrollo web
+### Desarrollo de juegos  +  ### Desarrollo web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
+![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-### Desarrollo de juegos
-![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
-![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 
 ### DevOps, hosting y herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
