@@ -50,6 +50,4 @@
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/difu_cd)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://difu-zev.itch.io/)
 [![CodePen](https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DiFu)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://es.pinterest.com/Sr_DiFu/)
-
 
