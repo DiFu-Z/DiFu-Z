@@ -2,10 +2,10 @@
 
 - 🔭 Actualmente Trabajo Independientes en Desarrollo Juegos Personal+Roblox y Webs
 - 🎮 También creo scripts y juegos en Roblox
-- 💬 Pregúntame sobre HTML, CSS, JavaScript y PHP
-- 🌐 Mi web: [difu-zev.netlify.app](https://difu-zev.netlify.app)
-- 📫 Cómo contactarme: yosoydifu@yahoo.com
-- 📍 España
+- 🌐 Mi Web: [difu-zev.netlify.app](https://difu-zev.netlify.app)
+- 📫 Cómo Contactarme: yosoydifu@yahoo.com
+- 💬 Pregúntame Sobre Mi-(Si Dsean).
+- 📍 Españaw
 
 ## Tech Stack
 
@@ -16,6 +16,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PhotoCraft](https://img.shields.io/badge/photocraft-%238A2BE2.svg?style=for-the-badge&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF00F)
+
+### Herramientas de Video
 ![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF00F)
 
 ### Lenguajes de programación
