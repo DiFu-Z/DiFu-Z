@@ -19,7 +19,10 @@
 ![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF00F)
 
 ### Herramientas de Video
-![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF00F)
+![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![FilmCraft](https://img.shields.io/badge/filmcraft-%23E4572E.svg?style=for-the-badge&logoColor=white)
+![CapCut](https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
+![iMovie](https://img.shields.io/badge/imovie-%236E3BD9.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Lenguajes de programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
