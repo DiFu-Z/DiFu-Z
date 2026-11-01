@@ -1,4 +1,5 @@
 ### ¡Hola! 👋 Soy DiFu-ZEV
+### Diego
 
 - 🔭 Actualmente Trabajo Independientes en Desarrollo Juegos Personal+Roblox y Webs
 - 🎮 También creo scripts y juegos en Roblox
@@ -16,7 +17,7 @@
 ![CapCut](https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
 ![iMovie](https://img.shields.io/badge/imovie-%236E3BD9.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-### Lenguajes de programación
+### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -29,7 +30,7 @@
 ![Roblox Studio](https://img.shields.io/badge/roblox%20studio-%2300A2FF.svg?style=for-the-badge&logo=roblox-studio&logoColor=white)
 ![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=for-the-badge&logo=luau&logoColor=white)
 
-### Herramientas de Diseño+Dibujo
+### Herramientas de Diseño + Dibujo
 ![PhotoCraft](https://img.shields.io/badge/photocraft-%238A2BE2.svg?style=for-the-badge&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
 ![Krita](https://img.shields.io/badge/krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF00F)
